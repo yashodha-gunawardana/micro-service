@@ -8,6 +8,8 @@
         <option value="$PROJECT_DIR$/eurekaServer/pom.xml" />
         <option value="$PROJECT_DIR$/configServer/pom.xml" />
         <option value="$PROJECT_DIR$/zoneService/pom.xml" />
+        <option value="$PROJECT_DIR$/automationService/pom.xml" />
+        <option value="$PROJECT_DIR$/cropService/pom.xml" />
       </list>
     </option>
   </component>

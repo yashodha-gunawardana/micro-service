@@ -8,15 +8,19 @@
         <outputRelativeToContentRoot value="true" />
         <module name="apiGateway" />
         <module name="zoneService" />
+        <module name="cropService" />
         <module name="eurekaServer" />
         <module name="configServer" />
+        <module name="automationService" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="apiGateway" options="-parameters" />
+      <module name="automationService" options="-parameters" />
       <module name="configServer" options="-parameters" />
+      <module name="cropService" options="-parameters" />
       <module name="eurekaServer" options="-parameters" />
       <module name="zoneService" options="-parameters" />
     </option>
