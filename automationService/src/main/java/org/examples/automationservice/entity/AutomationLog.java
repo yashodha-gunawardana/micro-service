@@ -1,0 +1,20 @@
+package org.examples.automationservice.entity;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+import lombok.Data;
+
+@Entity
+@Data
+public class AutomationLog {
+
+    @Id
+    private String id;
+
+    private String zoneId;
+
+    private double temperature;
+
+    private String action;
+
+}
