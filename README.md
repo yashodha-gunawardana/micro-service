@@ -36,6 +36,16 @@ It simulates a scalable backend system used in modern cloud applications.
 - Handles all operations related to “Zone” entity
 - Demonstrates real-world business logic implementation
 
+## 🛠️ API Documentation & Testing
+
+### Postman Collection
+The AGMS_Collection.json file is located in the root directory. Import it into Postman to test all endpoints.
+
+*Authentication Workflow:*
+1.  Use POST /auth/token with valid credentials to receive a JWT.
+2.  Copy the token and set it as a *Bearer Token* in the Authorization tab for all other requests.
+
+
 ## 🌐 Base URL
     http://localhost:8080
 
@@ -52,3 +62,8 @@ It simulates a scalable backend system used in modern cloud applications.
 
 
 ![Eureka Up](./images/eureka-up.jpeg)
+![Login](./images/Login.png)
+![Register](./images/Register.png)
+![Crop Register](./images/Crops_Register.png)
+![Sensor Register](./images/Sensors_Register.png)
+![Zones register](./images/Zones_Register.png)
