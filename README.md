@@ -50,4 +50,6 @@ It simulates a scalable backend system used in modern cloud applications.
 - Independent deployment
 
 
-![Eureka Up](./images/eureka up.jpeg)
+
+
+![Eureka Up](./images/eureka-up.jpeg)
