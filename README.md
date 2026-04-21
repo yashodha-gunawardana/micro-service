@@ -1,9 +1,8 @@
-# 🚀 Microservice Architecture Project (Spring Boot + Spring Cloud)
+# 🚀 Agricultural Management System (AGMS) - Microservices
 
-A complete **Spring Boot Microservices system** demonstrating real-world distributed architecture using **Spring Cloud Netflix Eureka, Config Server, and REST-based services**.
-
-This project is designed for learning and implementing **scalable, maintainable, and production-style microservices architecture**.
-
+This repository contains the backend implementation for the *Agricultural Management System (AGMS), 
+a distributed system built using **Spring Cloud Microservices Architecture*. The system is designed to monitor plantation zones, 
+track real-time sensor data, and manage crop inventory with automated alerting.
 
 ## 🧭 Overview
 
