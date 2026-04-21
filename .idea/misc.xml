@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/zoneService/pom.xml" />
         <option value="$PROJECT_DIR$/automationService/pom.xml" />
         <option value="$PROJECT_DIR$/cropService/pom.xml" />
+        <option value="$PROJECT_DIR$/sensorService/pom.xml" />
       </list>
     </option>
   </component>
